@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essex Workshop</title>
+    <description>A boilerplate set up to create a bilingual Jekyll website from Wiredcraft</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2019-03-12T20:41:12+00:00</pubDate>
+    <lastBuildDate>2019-03-12T20:41:12+00:00</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+    
+      <item>
+        <title>x帖子</title>
+        <description>&lt;p&gt;这里嵌入了一个有趣的TED视频。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BCvQw3gKJOU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>2019-03-03T00:00:00+00:00</pubDate>
+        <link>http://localhost:4000/zh/xth-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/xth-post/</guid>
+        
+        
+        <category>zh</category>
+        
+      </item>
+    
+      <item>
+        <title>Xth post</title>
+        <description>&lt;p&gt;Here an interesting TED video embedded.&lt;/p&gt;
+
+&lt;div style=&quot;left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/BCvQw3gKJOU?rel=0&amp;amp;showinfo=0&quot; style=&quot;border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;&quot; allowfullscreen=&quot;&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;The embed code is different in the Chinese version of this post. Here, it is fullscreen and responsive.&lt;/p&gt;
+</description>
+        <pubDate>2019-03-03T00:00:00+00:00</pubDate>
+        <link>http://localhost:4000/xth-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/xth-post/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Third post</title>
+        <description>&lt;p&gt;What do people think about translation?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../files/images/alan-watts.jpg&quot; alt=&quot;Alan Watts&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That’s a waste of time. If you really understand Zen… you can use any book. You could use the Bible. You could use Alice in Wonderland. You could use the dictionary, because… the sound of the rain needs no translation. ~ Alan Watts&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../files/images/ursula-k-le-guin.jpg&quot; alt=&quot;Alan Watts&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself translating, or more like translating than it is like anything else. What is the other text, the original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and one catches them in nets of words and swings them shining into the boat… where in this metaphor they die and get canned and eaten in sandwiches. ~ Ursula Le Guin&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>2017-04-24T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/third-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/third-post/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Troisème article</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, augue neglegentur ex sed, ne odio diam labitur vel. Quo te oratio maiestatis. Ne eum nisl dolor. Vel saepe nusquam ea, an atqui tation mel.&lt;/p&gt;
+
+&lt;p&gt;Te atqui maluisset dissentiunt pri. Ut quo adhuc mazim commune, novum ornatus ea has. His solum ipsum partiendo an, sit esse epicuri eu. Nam dicant mollis eu, sea equidem periculis id. Ea esse idque mei. Modus idque vitae ut ius, usu at consul discere invenire, ex inimicus mnesarchum pro.&lt;/p&gt;
+
+&lt;p&gt;Labores definitiones sed in, error dolore adipisci usu in, sint sale viris ad vim. Meis porro ut pro, an usu quando fabellas oporteat. Eum magna delicata salutandi id, in modo prompta qui, mea ne quidam fabellas omittantur. No brute iudico malorum mel, et dicat affert eam.&lt;/p&gt;
+
+&lt;p&gt;Mea agam nobis quando at, ex prompta detraxit per. Aeque urbanitas accommodare id has, choro menandri tacimates ei nec, sea quem duis tota id. Pri te ornatus delectus liberavisse, tollit altera sanctus per ad, in fugit primis per. Laoreet offendit invenire nec an, ea qui aperiri impedit qualisque. Ex saperet fuisset vulputate eam, nec cibo philosophia ei. Duo ubique scripta te, aperiri democritum eloquentiam vim an.&lt;/p&gt;
+
+&lt;p&gt;Vim et habeo primis theophrastus. Ex qui erant forensibus sententiae, in vix adipisci efficiendi. Soluta appetere fabellas an vel. Ad illud audiam erroribus nec.&lt;/p&gt;
+</description>
+        <pubDate>2017-04-24T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/fr/third-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/fr/third-post/</guid>
+        
+        
+        <category>fr</category>
+        
+      </item>
+    
+      <item>
+        <title>第三篇文章</title>
+        <description>&lt;p&gt;人们对翻译有什么看法？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../files/images/alan-watts.jpg&quot; alt=&quot;Alan Watts&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That’s a waste of time. If you really understand Zen… you can use any book. You could use the Bible. You could use Alice in Wonderland. You could use the dictionary, because… the sound of the rain needs no translation. ~ Alan Watts&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../files/images/ursula-k-le-guin.jpg&quot; alt=&quot;Alan Watts&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself translating, or more like translating than it is like anything else. What is the other text, the original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and one catches them in nets of words and swings them shining into the boat… where in this metaphor they die and get canned and eaten in sandwiches. ~ Ursula Le Guin&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>2017-04-24T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/zh/third-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/third-post/</guid>
+        
+        
+        <category>zh</category>
+        
+      </item>
+    
+      <item>
+        <title>Second post</title>
+        <description>&lt;p&gt;My translation examples, next to each other.&lt;/p&gt;
+
+&lt;div class=&quot;left&quot;&gt;
+  &lt;p&gt;The Tao that can be trodden is not the enduring and
+unchanging Tao. The name that can be named is not the enduring and
+unchanging name.
+
+(Conceived of as) having no name, it is the Originator of heaven
+and earth; (conceived of as) having a name, it is the Mother of all
+things.
+
+Always without desire we must be found,
+If its deep mystery we would sound;
+But if desire always within us be,
+Its outer fringe is all that we shall see.
+
+Under these two aspects, it is really the same; but as development
+takes place, it receives the different names. Together we call them
+the Mystery. Where the Mystery is the deepest is the gate of all that
+is subtle and wonderful.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;right&quot;&gt;
+  &lt;p&gt;可以被践踏的道不是经久不衰的
+不变的道。 可以命名的名称不是经久不衰的
+不变的名字。
+
+（被认为是）没有名字，它是天堂的创始人
+和地球; （被认为是）有一个名字，它是所有人的母亲
+的东西。
+
+永远没有欲望，我们必须找到，
+如果它的深奥之处我们会发出声音;
+但如果欲望总是在我们内心，
+它的外边缘就是我们所能看到的。
+
+在这两个方面，它实际上是一样的; 但作为发展
+它发生了，它收到不同的名字。 我们一起称呼它们
+谜。 最神秘的地方就是所有这一切的大门
+是微妙和美妙的。&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>2017-04-23T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/second-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/second-post/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Second article</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, augue neglegentur ex sed, ne odio diam labitur vel. Quo te oratio maiestatis. Ne eum nisl dolor. Vel saepe nusquam ea, an atqui tation mel.&lt;/p&gt;
+
+&lt;p&gt;Te atqui maluisset dissentiunt pri. Ut quo adhuc mazim commune, novum ornatus ea has. His solum ipsum partiendo an, sit esse epicuri eu. Nam dicant mollis eu, sea equidem periculis id. Ea esse idque mei. Modus idque vitae ut ius, usu at consul discere invenire, ex inimicus mnesarchum pro.&lt;/p&gt;
+
+&lt;p&gt;Labores definitiones sed in, error dolore adipisci usu in, sint sale viris ad vim. Meis porro ut pro, an usu quando fabellas oporteat. Eum magna delicata salutandi id, in modo prompta qui, mea ne quidam fabellas omittantur. No brute iudico malorum mel, et dicat affert eam.&lt;/p&gt;
+
+&lt;p&gt;Mea agam nobis quando at, ex prompta detraxit per. Aeque urbanitas accommodare id has, choro menandri tacimates ei nec, sea quem duis tota id. Pri te ornatus delectus liberavisse, tollit altera sanctus per ad, in fugit primis per. Laoreet offendit invenire nec an, ea qui aperiri impedit qualisque. Ex saperet fuisset vulputate eam, nec cibo philosophia ei. Duo ubique scripta te, aperiri democritum eloquentiam vim an.&lt;/p&gt;
+
+&lt;p&gt;Vim et habeo primis theophrastus. Ex qui erant forensibus sententiae, in vix adipisci efficiendi. Soluta appetere fabellas an vel. Ad illud audiam erroribus nec.&lt;/p&gt;
+</description>
+        <pubDate>2017-04-23T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/fr/second-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/fr/second-post/</guid>
+        
+        
+        <category>fr</category>
+        
+      </item>
+    
+      <item>
+        <title>第二篇文章／某专业领域</title>
+        <description>&lt;p&gt;我的翻译示例，彼此相邻。&lt;/p&gt;
+
+&lt;div class=&quot;left&quot;&gt;
+&lt;p&gt;可以被践踏的道不是经久不衰的
+不变的道。 可以命名的名称不是经久不衰的
+不变的名字。
+
+（被认为是）没有名字，它是天堂的创始人
+和地球; （被认为是）有一个名字，它是所有人的母亲
+的东西。
+
+永远没有欲望，我们必须找到，
+如果它的深奥之处我们会发出声音;
+但如果欲望总是在我们内心，
+它的外边缘就是我们所能看到的。
+
+在这两个方面，它实际上是一样的; 但作为发展
+它发生了，它收到不同的名字。 我们一起称呼它们
+谜。 最神秘的地方就是所有这一切的大门
+是微妙和美妙的。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;right&quot;&gt;
+&lt;p&gt;The Tao that can be trodden is not the enduring and
+unchanging Tao. The name that can be named is not the enduring and
+unchanging name.
+
+(Conceived of as) having no name, it is the Originator of heaven
+and earth; (conceived of as) having a name, it is the Mother of all
+things.
+
+Always without desire we must be found,
+If its deep mystery we would sound;
+But if desire always within us be,
+Its outer fringe is all that we shall see.
+
+Under these two aspects, it is really the same; but as development
+takes place, it receives the different names. Together we call them
+the Mystery. Where the Mystery is the deepest is the gate of all that
+is subtle and wonderful.
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>2017-04-23T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/zh/second-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/second-post/</guid>
+        
+        
+        <category>zh</category>
+        
+      </item>
+    
+      <item>
+        <title>Premier article</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, augue neglegentur ex sed, ne odio diam labitur vel. Quo te oratio maiestatis. Ne eum nisl dolor. Vel saepe nusquam ea, an atqui tation mel.&lt;/p&gt;
+
+&lt;p&gt;Te atqui maluisset dissentiunt pri. Ut quo adhuc mazim commune, novum ornatus ea has. His solum ipsum partiendo an, sit esse epicuri eu. Nam dicant mollis eu, sea equidem periculis id. Ea esse idque mei. Modus idque vitae ut ius, usu at consul discere invenire, ex inimicus mnesarchum pro.&lt;/p&gt;
+
+&lt;p&gt;Labores definitiones sed in, error dolore adipisci usu in, sint sale viris ad vim. Meis porro ut pro, an usu quando fabellas oporteat. Eum magna delicata salutandi id, in modo prompta qui, mea ne quidam fabellas omittantur. No brute iudico malorum mel, et dicat affert eam.&lt;/p&gt;
+
+&lt;p&gt;Mea agam nobis quando at, ex prompta detraxit per. Aeque urbanitas accommodare id has, choro menandri tacimates ei nec, sea quem duis tota id. Pri te ornatus delectus liberavisse, tollit altera sanctus per ad, in fugit primis per. Laoreet offendit invenire nec an, ea qui aperiri impedit qualisque. Ex saperet fuisset vulputate eam, nec cibo philosophia ei. Duo ubique scripta te, aperiri democritum eloquentiam vim an.&lt;/p&gt;
+
+&lt;p&gt;Vim et habeo primis theophrastus. Ex qui erant forensibus sententiae, in vix adipisci efficiendi. Soluta appetere fabellas an vel. Ad illud audiam erroribus nec.&lt;/p&gt;
+</description>
+        <pubDate>2017-04-22T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/fr/first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/fr/first-post/</guid>
+        
+        
+        <category>fr</category>
+        
+      </item>
+    
+      <item>
+        <title>First post</title>
+        <description>&lt;p&gt;My translation examples, stacked:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Tao that can be trodden is not the enduring and
+unchanging Tao. The name that can be named is not the enduring and
+unchanging name.&lt;/p&gt;
+
+&lt;p&gt;(Conceived of as) having no name, it is the Originator of heaven
+and earth; (conceived of as) having a name, it is the Mother of all
+things.&lt;/p&gt;
+
+&lt;p&gt;Always without desire we must be found,
+If its deep mystery we would sound;
+But if desire always within us be,
+Its outer fringe is all that we shall see.&lt;/p&gt;
+
+&lt;p&gt;Under these two aspects, it is really the same; but as development
+takes place, it receives the different names. Together we call them
+the Mystery. Where the Mystery is the deepest is the gate of all that
+is subtle and wonderful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;可以被践踏的道不是经久不衰的
+不变的道。 可以命名的名称不是经久不衰的
+不变的名字。
+&lt;br /&gt;&lt;br /&gt;
+（被认为是）没有名字，它是天堂的创始人
+和地球; （被认为是）有一个名字，它是所有人的母亲
+的东西。
+&lt;br /&gt;&lt;br /&gt;
+永远没有欲望，我们必须找到，
+如果它的深奥之处我们会发出声音;
+但如果欲望总是在我们内心，
+它的外边缘就是我们所能看到的。
+&lt;br /&gt;&lt;br /&gt;
+在这两个方面，它实际上是一样的; 但作为发展
+它发生了，它收到不同的名字。 我们一起称呼它们
+谜。 最神秘的地方就是所有这一切的大门
+是微妙和美妙的。
+&lt;/p&gt;
+</description>
+        <pubDate>2017-04-22T00:00:00+01:00</pubDate>
+        <link>http://localhost:4000/first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-post/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
